@@ -1,4 +1,5 @@
 # Projeto Mobile -  Blast Corps (1997)
+![image](https://github.com/LehLapa/ProjetoMobile/blob/main/BlastCorps.png)
 ## Integrantes 
 - Aluna: Fernanda Viana Marcelino
 - Aluna: Letícia da Lapa Silva
