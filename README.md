@@ -8,8 +8,8 @@ Cursando: ETEC Professor Basilides de Godoy - Ensino Médio com Habilitação Pr
 
 ##
 
-# Descrição 
-
+# Descrição do Projeto
+- <a href="https://github.com/LehLapa/ProjetoMobile/wiki/Descrição-Projeto"> Descrição e Funcionalidade<a>
 # Protótipo Imagens 
 
 ## Imagens da Prototipação 
